@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to SinkingYachts
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Anti-Phishing
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+### API
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+SinkingYachts is home to an API allowing easy access to a phishing-domain database.
+API documentation can be found [here](https://api.sinking.yachts/docs).
+
+
+### Other Resources
+
+**(TODO)**
+
