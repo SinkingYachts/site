@@ -1,4 +1,25 @@
-# Welcome to SinkingYachts
+# Welcome to SinkingYachts!
+
+
+
+## About
+
+SinkingYachts is a cybersecurity project focused on providing resources and services that improve safety across Discord.
+
+At the moment, the project's only service is the anti-phishing API. I plan to launch more services and resources as the
+project grows.
+
+SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder#4003](https://nwunder.com).
+
+
+### Contact
+
+- Discord: ``nwunder#4003``
+- Email: <mailto:sinkingyachts@gmail.com>
+- Discord server: <https://discord.gg/cT6eQjWW8H>
+- GitHub: <https://github.com/SinkingYachts>
+
+
 
 
 ## Anti-Phishing
@@ -6,11 +27,15 @@
 
 ### API
 
-SinkingYachts is home to an API allowing easy access to a phishing-domain database.
+SinkingYachts is home to an API allowing easy access to our phishing-domain database.
 API documentation can be found [here](https://api.sinking.yachts/docs).
 
 
 ### Other Resources
 
-**(TODO)**
+**(soon:tm:)**
 
+
+## Other Projects
+
+**(soon:tm:)**
