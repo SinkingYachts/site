@@ -18,7 +18,6 @@ SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder
 
 ### Contact
 
-- Discord: ``nwunder#4003``
 - Email: <mailto:sinkingyachts@gmail.com>
 - Discord server: [discord.gg/cT6eQjWW8](https://discord.gg/cT6eQjWW8H)
 - GitHub: [SinkingYachts](https://github.com/SinkingYachts)
@@ -32,8 +31,7 @@ More info about our anti-phishing services can be found [here](/projects).
 
 ### API
 
-SinkingYachts is home to an API allowing easy access to our phishing-domain database.
-
+SinkingYachts is home to an API allowing easy access to our phishing-domain database. <br>
 API documentation can be found [here](https://api.sinking.yachts/docs).
 
 

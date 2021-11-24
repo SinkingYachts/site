@@ -5,7 +5,8 @@ This page contains a list of notable anti-phishing resources for Discord moderat
 
 ## Other APIs
 
-- **Anti-Fish** ([anti-fish.bitflow.dev](https://anti-fish.bitflow.dev)): API to provide easy checking for messages against phishing domains.
+- **Anti-Fish** ([anti-fish.bitflow.dev](https://anti-fish.bitflow.dev)): <br>
+  API to provide easy checking for messages against phishing domains.
 
 
 ## Bots
@@ -16,7 +17,7 @@ This page contains a list of notable anti-phishing resources for Discord moderat
 - **SafeLink** ([safelink.gg](https://safelink.gg/)): <br>
   SafeLink protects your server from scam/phishing links, invites, explicit content, and more using our in-house deep scanning algorithm.
 
-- **Fish** ([Benricheson101/anti-phishing-bot/](https://github.com/Benricheson101/anti-phishing-bot/)): <br>
+- **Fish** ([Benricheson101/anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot/)): <br>
   Discord bot for deleting Steam/Discord phishing links.
 
 - **GiselleBot** ([gisellebot.com](https://gisellebot.com/)): <br>
