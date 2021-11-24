@@ -1,4 +1,4 @@
-# Services
+# Projects
 
 Anti-phishing services provided by SinkingYachts.
 
