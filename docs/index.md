@@ -21,19 +21,19 @@ SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder
 
 
 
-
 ## Anti-Phishing
 
 
 ### API
 
 SinkingYachts is home to an API allowing easy access to our phishing-domain database.
+
 API documentation can be found [here](https://api.sinking.yachts/docs).
 
 
 ### Other Resources
 
-**(soon:tm:)**
+A list of useful anti-phishing resources can be found here [here](/resources) (WIP).
 
 
 ## Other Projects
