@@ -14,4 +14,4 @@ as I began to centralize my anti-phishing projects.
 
 ## Other
 
-**(soon:tm:)**
+**(soon™)**

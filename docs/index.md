@@ -23,6 +23,8 @@ SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder
 
 ## Anti-Phishing
 
+More info about SinkingYachts anti-phishing services can be found [here](/services).
+
 
 ### API
 
@@ -38,4 +40,4 @@ A list of useful anti-phishing resources can be found here [here](/resources) (W
 
 ## Other Projects
 
-**(soon:tm:)**
+**(soon™)**

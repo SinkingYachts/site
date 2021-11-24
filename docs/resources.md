@@ -5,7 +5,7 @@ This page contains a list of notable anti-phishing resources for Discord moderat
 
 ## Other APIs
 
-- **Anti-Fish** [(anti-fish.bitflow.dev)](https://anti-fish.bitflow.dev): API to provide easy checking for messages against phishing domains.
+- **Anti-Fish** ([anti-fish.bitflow.dev](https://anti-fish.bitflow.dev)): API to provide easy checking for messages against phishing domains.
 
 
 ## Bots
