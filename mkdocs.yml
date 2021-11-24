@@ -1,4 +1,39 @@
 site_name: SinkingYachts
 
+markdown_extensions:
+  - meta
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 theme:
   name: material
+
+  favicon: assets/yacht.jpg
+  icon:
+    logo: material/sail-boat
+
+  features:
+    - navigation.indexes
+
+    # tabs at top of page - add later?
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+nav:
+  - index.md
+  - services.md
+  - resources.md
+  - faq.md

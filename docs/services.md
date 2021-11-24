@@ -9,6 +9,7 @@ Anti-phishing services provided by SinkingYachts.
 SinkingYachts is home to an API allowing easy access to our phishing-domain database.
 
 Features:
+
 - Live updates from the [Fish Project](https://discordresources.com/wiki/resources/unofficial-servers#the-fish-project)
 - Ability to fetch whole database or compare a domain against known phishing domains.
 - "Recent updates" endpoint at ``/recent`` for updating database mirrors without the need to poll ``/all``.
