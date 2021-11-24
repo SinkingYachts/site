@@ -1,10 +1,13 @@
 site_name: SinkingYachts
+site_url: https://sinking.yachts/
+repo_url: https://github.com/SinkingYachts
 
 markdown_extensions:
   - meta
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 theme:
   name: material
