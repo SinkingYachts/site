@@ -1,7 +1,6 @@
 ---
 title: Home
 ---
-
 # Welcome to SinkingYachts! :material-sail-boat:
 
 
