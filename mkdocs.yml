@@ -6,6 +6,8 @@ docs_dir: src
 
 markdown_extensions:
   - meta
+  - admonition
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -20,7 +22,7 @@ plugins:
 theme:
   name: material
 
-  favicon: assets/yacht.jpg
+  favicon: assets/img/yacht.jpg
   icon:
     logo: material/sail-boat
 
