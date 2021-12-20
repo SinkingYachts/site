@@ -1,6 +1,6 @@
 # Resources
 
-This page contains a list of notable anti-phishing resources for Discord moderation.
+This page contains a list of notable anti-phishing and anti-malware resources for Discord moderation.
 
 
 ### Our Projects
@@ -8,7 +8,33 @@ This page contains a list of notable anti-phishing resources for Discord moderat
 Don't forget to check out the SinkingYachts [anti-phishing services](/projects)!
 
 
-## Other APIs
+## Special Project: The Vaccinator
+
+The Vaccinator is a specialized malware analysis tool designed to combat Discord token grabbers.
+
+**Link:** <br>
+https://sketchy.tel/
+
+**How it works:** <br>
+Since most of this class of malware uses Discord webhooks to send the victim's data to the scammer, one is able to extract the webhook URL from the malware file. Then, the webhook can be deleted to prevent the scammer from getting other users' data (from that webhook).
+
+**Help:** <br>
+You can contact `nwunder#4003` with questions or feedback about The Vaccinator.
+
+
+## General Security
+
+- **VirusTotal** ([virustotal.com](https://virustotal.com)) <br>
+  Site for analyzing suspicious files and URLs.
+- **Hybrid Analysis** ([hybrid-analysis.com](https://www.hybrid-analysis.com/)) <br>
+  Site for analyzing suspicious files and URLs.
+- **UrlScan** ([urlscan.io](https://urlscan.io/)) <br>
+  Site for analyzing suspicious URLs.
+- **UrlHaus** ([urlhaus](https://urlhaus.abuse.ch)) <br>
+  Site for analyzing suspicious URLs.
+
+
+## APIs
 
 - **Anti-Fish** ([anti-fish.bitflow.dev](https://anti-fish.bitflow.dev)): <br>
   API to provide easy checking for messages against phishing domains.
