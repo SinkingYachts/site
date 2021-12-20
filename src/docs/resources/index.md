@@ -13,7 +13,7 @@ Don't forget to check out the SinkingYachts [anti-phishing services](/projects)!
 The Vaccinator is a specialized malware analysis tool designed to combat Discord token grabbers.
 
 **Link:** <br>
-https://sketchy.tel/
+[sketchy.tel](https://sketchy.tel/)
 
 **How it works:** <br>
 Since most of this class of malware uses Discord webhooks to send the victim's data to the scammer, one is able to extract the webhook URL from the malware file. Then, the webhook can be deleted to prevent the scammer from getting other users' data (from that webhook).
