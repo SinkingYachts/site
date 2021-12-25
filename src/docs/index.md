@@ -4,7 +4,6 @@ title: Home
 # Welcome to SinkingYachts! :material-sail-boat:
 
 
-
 ## About
 
 SinkingYachts is a cybersecurity project focused on providing resources and services that improve safety across Discord.
@@ -17,21 +16,24 @@ SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder
 
 ### Contact
 
-- Email: <mailto:sinkingyachts@gmail.com>
+- Email: [sinkingyachts@gmail.com](mailto:sinkingyachts@gmail.com)
 - Discord server: [discord.gg/cT6eQjWW8](https://discord.gg/cT6eQjWW8H)
 - GitHub: [SinkingYachts](https://github.com/SinkingYachts)
 
+Other useful links:
+- API Docs: [phish.sinking.yachts](https://phish.sinking.yachts)
+- Postman: [postman.com/sinkingyachts](https://postman.com/sinkingyachts)
 
 
 ## Anti-Phishing
 
-More info about our anti-phishing services can be found [here](/projects).
+More info about our services can be found [here](/projects).
 
 
 ### API
 
 SinkingYachts is home to an API allowing easy access to our phishing-domain database. <br>
-API documentation can be found [here](https://api.sinking.yachts/docs).
+API documentation can be found [here](https://phish.sinking.yachts/docs).
 
 
 ### Other Resources
