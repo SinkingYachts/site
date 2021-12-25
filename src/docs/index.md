@@ -21,6 +21,7 @@ SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder
 - GitHub: [SinkingYachts](https://github.com/SinkingYachts)
 
 Other useful links:
+
 - API Docs: [phish.sinking.yachts](https://phish.sinking.yachts)
 - Postman: [postman.com/sinkingyachts](https://postman.com/sinkingyachts)
 
