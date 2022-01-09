@@ -8,7 +8,7 @@ This page contains a list of notable anti-phishing and anti-malware resources fo
 Don't forget to check out the SinkingYachts [anti-phishing services](/projects)!
 
 
-## Special Project: The Vaccinator
+## The Vaccinator
 
 The Vaccinator is a specialized malware analysis tool designed to combat Discord token grabbers.
 
@@ -16,22 +16,26 @@ The Vaccinator is a specialized malware analysis tool designed to combat Discord
 [sketchy.tel](https://sketchy.tel/)
 
 **How it works:** <br>
-Since most of this class of malware uses Discord webhooks to send the victim's data to the scammer, one is able to extract the webhook URL from the malware file. Then, the webhook can be deleted to prevent the scammer from getting other users' data (from that webhook).
+Since most of this class of malware uses Discord webhooks to send the victim's data to the scammer, one is able to extract the webhook URL from the malware file. Then, the webhook can be deleted to prevent the scammer from getting other users' data (from that webhook). <br>
+The Vaccinator operates off this principle, and is able to extract useful information from most common Discord token grabbers.
 
 **Help:** <br>
-You can contact `nwunder#4003` with questions or feedback about The Vaccinator.
+You can contact `nwunder#4003` (me!) on Discord with questions or feedback about The Vaccinator.
 
 
 ## General Security
 
 - **VirusTotal** ([virustotal.com](https://virustotal.com)) <br>
-  Site for analyzing suspicious files and URLs.
-- **Hybrid Analysis** ([hybrid-analysis.com](https://www.hybrid-analysis.com/)) <br>
-  Site for analyzing suspicious files and URLs.
-- **UrlScan** ([urlscan.io](https://urlscan.io/)) <br>
+  Site for analyzing suspicious files and URLs. Very solid tool, the one everyone's heard of.
+- **Hybrid Analysis** ([hybrid-analysis.com](https://www.hybrid-analysis.com)) <br>
+  Site for analyzing suspicious files and URLs. Very powerful tool, has sandboxing in addition to VirusTotal-esque scanning.
+- **Open Threat Exchange** ([otx.alienvault.com](https://otx.alienvault.com)) <br>
+  Site for analyzing and sharing malware and other cyber threats. Offers useful tools for creating and sharing collections of known malware.
+- **UrlScan** ([urlscan.io](https://urlscan.io)) <br>
   Site for analyzing suspicious URLs.
-- **UrlHaus** ([urlhaus](https://urlhaus.abuse.ch)) <br>
-  Site for analyzing suspicious URLs.
+- **Abuse.ch** ([abuse.ch](https://abuse.ch)) <br>
+  A nonprofit cybersecurity project run out of the Bern University of Applied Sciences in Switzerland.
+  Provides lots of great cybersecurity resources, notably [URLhaus](https://urlhaus.abuse.ch) and [MalwareBazaar](https://bazaar.abuse.ch).
 
 
 ## APIs
