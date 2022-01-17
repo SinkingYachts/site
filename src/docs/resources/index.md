@@ -5,7 +5,7 @@ This page contains a list of notable anti-phishing and anti-malware resources fo
 
 ### Our Projects
 
-Don't forget to check out the SinkingYachts [anti-phishing services](/projects)!
+Don't forget to check out the SinkingYachts [anti-phishing services](./projects)!
 
 
 ## The Vaccinator
