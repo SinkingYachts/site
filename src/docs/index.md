@@ -17,13 +17,13 @@ SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder
 ### Contact
 
 - Email: [sinkingyachts@gmail.com](mailto:sinkingyachts@gmail.com)
-- Discord server: [discord.gg/cT6eQjWW8](https://discord.gg/bcabpA8JWv)
-- GitHub: [SinkingYachts](https://github.com/SinkingYachts)
+- Discord server: <https://discord.gg/bcabpA8JWv>
+- GitHub: <https://github.com/SinkingYachts>
 
 Other useful links:
 
-- API Docs: [phish.sinking.yachts](https://phish.sinking.yachts)
-- Postman: [postman.com/sinkingyachts](https://postman.com/sinkingyachts)
+- API Docs: <https://phish.sinking.yachts>
+- Postman: <https://postman.com/sinkingyachts>
 
 
 ## Anti-Phishing
