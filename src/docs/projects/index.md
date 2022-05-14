@@ -16,7 +16,7 @@ Features:
 - WebSocket feed for services that want to receive live database updates.
 - High rate limit (see API docs)
 
-API documentation can be found [here](https://api.sinking.yachts/docs).
+API documentation can be found [here](https://phish.sinking.yachts/docs).
 
 
 
