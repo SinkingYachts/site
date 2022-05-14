@@ -17,7 +17,6 @@ SinkingYachts projects are developed, maintained, hosted, and funded by [nwunder
 ### Contact
 
 - Email: [sinkingyachts@gmail.com](mailto:sinkingyachts@gmail.com)
-- Discord server: <https://discord.gg/57cbmkN7ZZ>
 - GitHub: <https://github.com/SinkingYachts>
 
 Other useful links:
